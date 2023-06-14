@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Debug\Natural3.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Debug\Natural3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Debug\Natural3.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Debug\Natural3.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Debug\Natural3.pdb

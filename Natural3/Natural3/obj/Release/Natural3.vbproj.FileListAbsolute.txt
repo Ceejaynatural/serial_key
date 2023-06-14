@@ -1,0 +1,21 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Release\Natural3.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Release\Natural3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Release\Natural3.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\bin\Release\Natural3.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Natural3\Natural3\obj\Release\Natural3.pdb
+D:\Natural3\Natural3\bin\Release\Natural3.exe.config
+D:\Natural3\Natural3\obj\Release\Natural3.exe
+D:\Natural3\Natural3\obj\Release\Natural3.xml
+D:\Natural3\Natural3\obj\Release\Natural3.pdb
+D:\Natural3\Natural3\bin\Release\Natural3.exe
+D:\Natural3\Natural3\bin\Release\Natural3.pdb
+D:\Natural3\Natural3\bin\Release\Natural3.xml
+D:\Natural3\Natural3\obj\Release\Natural3.vbprojResolveAssemblyReference.cache
+D:\Natural3\Natural3\obj\Release\Natural3.Form1.resources
+D:\Natural3\Natural3\obj\Release\Natural3.Resources.resources
+D:\Natural3\Natural3\obj\Release\Natural3.vbproj.GenerateResource.Cache
